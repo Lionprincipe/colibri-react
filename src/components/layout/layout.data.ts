@@ -2,7 +2,7 @@ export const data = {
   header: {
     brand: { text: 'colibri' },
     nav: {
-      navBtns: ['user', 'love', 'menu'],
+      navBtns: ['person', 'heart'],
       user: {
         icon: 'user',
       },
@@ -13,6 +13,6 @@ export const data = {
     },
   },
   footer: {
-    navBtns: ['search', 'mail', 'call', 'support-chat'],
+    navBtns: ['search', 'mail', 'phone', 'support'],
   },
 }

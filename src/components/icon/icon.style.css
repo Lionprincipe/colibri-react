@@ -1,5 +1,5 @@
 svg {
   width: 24px;
   height: 24px;
-  fill: #4fb8cb;
+  fill: var(--primary-color);
 }
