@@ -1,5 +1,11 @@
+import { Layout } from './components'
+
 function App() {
-  return <div>hello colibri</div>
+  return (
+    <Layout>
+      <div>hello colibri</div>
+    </Layout>
+  )
 }
 
 export default App
